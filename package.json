@@ -1,0 +1,19 @@
+{
+  "name": "presents-node",
+  "version": "1.0.0",
+  "description": "Module to set up a node server to serve presents presentations and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsgw/presents-node.git"
+  },
+  "author": "Lars Willighagen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsgw/presents-node/issues"
+  },
+  "homepage": "https://github.com/larsgw/presents-node#readme"
+}
